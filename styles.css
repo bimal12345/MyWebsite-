@@ -6,76 +6,45 @@ section {
 
 
   body {
-	background-color: pink;
+	background-color: rgba(235,170,181,1.00);
 	color: #30E304;
-	padding-left: 25%;
+	padding-left: 39%;
+	padding-top: 23px;
+	padding-right: 11px;
+	padding-bottom: 17px;
+	letter-spacing: normal;
 }
 
 nav {
-	border-style: none;
-	background-color: #BDAAAB;
-	padding-left: 157px;
-	padding-right: 15%;
-	color: #110303;
+	border-style: solid;
+	background-color: #F6A2A2;
+	padding-left: 0px;
+	padding-right: 11%;
+	color: #CCA10B;
 	font-size: 149%;
 	/* [disabled]font-weight: normal; */
 	line-height: 310%;
 	text-align: center;
 	text-indent: -43%;
-	text-decoration: none;
-	text-shadow: 12% 13px #AA9B9C;
-	max-width: none;
-	background-image: -webkit-linear-gradient(270deg,rgba(192,6,18,1.00) 0%,rgba(115,32,32,1.00) 100%);
-	background-image: -moz-linear-gradient(270deg,rgba(192,6,18,1.00) 0%,rgba(115,32,32,1.00) 100%);
-	background-image: -o-linear-gradient(270deg,rgba(192,6,18,1.00) 0%,rgba(115,32,32,1.00) 100%);
-	background-image: linear-gradient(180deg,rgba(192,6,18,1.00) 0%,rgba(115,32,32,1.00) 100%);
-	margin-left: -14%;
-	margin-right: 1%;
+	text-shadow: 12% 13px #0CD034;
+	background-image: -webkit-linear-gradient(270deg,rgba(226,255,17,1.00) 0%,rgba(244,224,224,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(226,255,17,1.00) 0%,rgba(244,224,224,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(226,255,17,1.00) 0%,rgba(244,224,224,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(226,255,17,1.00) 0%,rgba(244,224,224,1.00) 100%);
 	padding-top: 0%;
-	right: 7%;
 	border-bottom-right-radius: 0px;
-	-webkit-box-shadow: 0px 0px #F30004;
-	box-shadow: 0px 0px #F30004;
+	-webkit-box-shadow: 10% 2% rgba(32,99,191,1.00);
+	box-shadow: 10% 2% rgba(32,99,191,1.00);
 	padding-bottom: 0px;
-	top: 3%;
-	left: 215%;
-}
-	
-	
-
-
-p {
-font-size: 20px;
-color: blue;
-
-}
-
-
-
-
-
-
-
-a {
-	text-decoration: none;
-	margin-left: 0%;
-	margin-top: 0%;
-	margin-right: 0%;
+	top: -11%;
+	border-color: #02A2FB;
 	margin-bottom: 0%;
-	background-color: #454545;
-	padding-left: 3%;
-	padding-top: 3%;
-	padding-right: 3%;
-	padding-bottom: 3%;
-	left: -5%;
-	border-right-width: 0%;
-	border-right-color: #D70003;
+	margin-top: 39px;
+	bottom: -5%;
+	margin-left: -65px;
+	margin-right: -272px;
 }
-a:hover {
-	-webkit-box-shadow: 0px 0px #DCCFCF;
-	box-shadow: 0px 0px #DCCFCF;
-	border-width: 0%;
-	border-top-left-radius: 0px;
+body nav {
 }
-a:visited {
+body nav {
 }
